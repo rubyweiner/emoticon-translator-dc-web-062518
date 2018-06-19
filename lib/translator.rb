@@ -25,4 +25,5 @@ end
 
 def get_english_meaning(path, emoticon)
   emoticons = load_library(path)
+  x = emoticons["get_meaning"[emoticon]
 end
